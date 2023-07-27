@@ -1,0 +1,9 @@
+pandas
+lightgbm
+tqdm
+xgboost
+streamlit_pandas_profiling
+lazypredict
+catboost
+streamlit
+sklearn
